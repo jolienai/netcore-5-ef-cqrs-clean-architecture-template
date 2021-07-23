@@ -1,0 +1,1 @@
+# netcore-5-ef-cqrs-clean-architecture-template
