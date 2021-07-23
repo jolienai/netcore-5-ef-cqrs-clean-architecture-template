@@ -13,15 +13,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "infrastructure", "infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "persistence", "persistence", "{D77B99FA-82FC-4F18-9E2D-1BFFCE984442}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitectureTemplate.Api", "src\MyUcbServiceTemplate.Api\CleanArchitectureTemplate.Api.csproj", "{4614D0F0-A762-4002-AE1F-B287D950C83B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitectureTemplate.Api", "src\CleanArchitectureTemplate.Api\CleanArchitectureTemplate.Api.csproj", "{4614D0F0-A762-4002-AE1F-B287D950C83B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitectureTemplate.Application", "src\MyUcbServiceTemplate.Application\CleanArchitectureTemplate.Application.csproj", "{CB1A2C37-3723-490F-93C2-35B7EB0DEBEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitectureTemplate.Application", "src\CleanArchitectureTemplate.Application\CleanArchitectureTemplate.Application.csproj", "{CB1A2C37-3723-490F-93C2-35B7EB0DEBEC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitectureTemplate.Domain", "src\MyUcbServiceTemplate.Domain\CleanArchitectureTemplate.Domain.csproj", "{0B2A3BCB-6B01-4C15-96D6-36DDA1A84B5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitectureTemplate.Domain", "src\CleanArchitectureTemplate.Domain\CleanArchitectureTemplate.Domain.csproj", "{0B2A3BCB-6B01-4C15-96D6-36DDA1A84B5A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitectureTemplate.Persistence", "src\MyUcbServiceTemplate.Persistence\CleanArchitectureTemplate.Persistence.csproj", "{49CB9D0E-C822-4495-8BE6-75C6341EBDC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitectureTemplate.Persistence", "src\CleanArchitectureTemplate.Persistence\CleanArchitectureTemplate.Persistence.csproj", "{49CB9D0E-C822-4495-8BE6-75C6341EBDC9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitectureTemplate.Infrastructure", "src\MyUcbServiceTemplate.Infrastructure\CleanArchitectureTemplate.Infrastructure.csproj", "{2B67176F-EAED-48EB-BD2C-EAA44214C798}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitectureTemplate.Infrastructure", "src\CleanArchitectureTemplate.Infrastructure\CleanArchitectureTemplate.Infrastructure.csproj", "{2B67176F-EAED-48EB-BD2C-EAA44214C798}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

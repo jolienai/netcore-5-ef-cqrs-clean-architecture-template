@@ -14,7 +14,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\MyUcbServiceTemplate.Application\CleanArchitectureTemplate.Application.csproj" />
+	  <ProjectReference Include="..\CleanArchitectureTemplate.Application\CleanArchitectureTemplate.Application.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>
