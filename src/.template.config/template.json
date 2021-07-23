@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "",
+    "classifications": [ "Custom template" ],
+    "identity": "CleanArchitectureTemplate.CSharp",
+    "name": "CleanArchitectureTemplate",
+    "shortName": "CleanArchitectureTemplate",
+    "preferNameDirectory" : "true",
+    "tags": {
+      "language": "C#",
+      "type": "Project"
+    },
+    "sourceName" : "CleanArchitectureTemplate"
+  }

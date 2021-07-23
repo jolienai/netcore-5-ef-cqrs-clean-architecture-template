@@ -1,0 +1,16 @@
+version: "3.4"
+services:
+    myucbservicetemplate:
+        build:
+            context: .
+        container_name: myucbservicetemplate
+        image: ucbusername/myucbservicetemplate:1.0.0
+        ports:
+        - 5000:5000
+        volumes:
+        - ./src/:/work
+        working_dir: /work
+        entrypoint: /bin/bash
+        stdin_open: true
+        tty: true
+
